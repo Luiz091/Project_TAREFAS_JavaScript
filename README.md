@@ -1,5 +1,13 @@
 # Project_TAREFAS_JavaScript
 
-Lista dinâmica de tarefas desenvolvido com JS
+## 🚀 Tecnologias
 
-Neste projeto não foi utilizado DB, as informações ficam armazenadas em localStorage.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+
+## 💻 Projeto
+
+Todo list é uma aplicação dinâmica de listas de tarefas. Com ela é possível cadastrar, visualizar e excluir itens. Para esta atividade não foi utilizado DB, pois os dados ficam salvo em localStorage.
